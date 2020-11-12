@@ -45,8 +45,6 @@ module.exports = {
 }
 ```
 
-### print function in terminal
+### print functions in terminal
 <p>node index.js</p>
-<img src="x-special/nautilus-clipboard
-copy
-file:///home/user/Pictures/Screenshot%20from%202020-11-12%2015-32-14.png"</img>
+![print](1112readme.png)
