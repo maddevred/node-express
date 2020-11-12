@@ -46,5 +46,12 @@ module.exports = {
 ```
 
 ### print functions in terminal
-<p>node index.js</p>
-![print](1112readme.png)
+<p>node index.js
+
+output: 
+Amari James
+Wassup, Amari James
+25
+67
+442</p>
+
